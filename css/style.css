@@ -731,9 +731,7 @@ body {
 @media (max-width: 656px) {
     .footer__inner {
         font-size: 75%;
-    }
-    .photo {
-        padding: 15px;
+
     }
 }
 
@@ -741,6 +739,18 @@ body {
     .header__text {
         display: none;
 
+    }
+
+    .photo {
+        padding: 15px;
+    }
+
+    .cadillac__image {
+        padding-bottom: 53px;
+        height: 294px;
+        margin: 0 auto;
+        padding-left: 0px;
+        padding-right: 0px;
     }
 
     .header__top-inner {
